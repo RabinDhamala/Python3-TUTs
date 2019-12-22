@@ -16,6 +16,9 @@ class Employee:
 
 print(Employee.no_of_emps)
 
+def divide:
+    return x/y
+
 emp1 = Employee('Hari', 'Khadka', 50000)
 emp2 = Employee('Nari', 'Chikari', 60000)
 class aafnai_ho:
