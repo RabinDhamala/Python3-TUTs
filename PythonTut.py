@@ -18,5 +18,7 @@ print(Employee.no_of_emps)
 
 emp1 = Employee('Hari', 'Khadka', 50000)
 emp2 = Employee('Nari', 'Chikari', 60000)
+class aafnai_ho:
+    sungur = 10
 
 print(Employee.no_of_emps)
